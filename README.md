@@ -1,9 +1,10 @@
 # Reddit Auto Show More Comments
 [WebExtension] Automatically clicks 'X more replies' and 'View more comments' buttons on Reddit.
 
-This is a fork of the original Chrome extension by alythobani (Aly Thobani) at https://github.com/alythobani.
+This is a fork of the original Chrome extension '[Reddit Auto Show More Comments](https://chromewebstore.google.com/detail/reddit-auto-show-more-com/bhampaflpobmpgmaoccpdbdkeaoacoai)' by [alythobani (Aly Thobani)](https://github.com/alythobani).
 
-Someone requested this on Reddit, and I had some time to spare. https://www.reddit.com/r/FirefoxAddons/comments/1idyeul/can_someone_convert_this_extension_for_use_on/
+Someone requested this on [Reddit](https://www.reddit.com/r/FirefoxAddons/comments/1idyeul/can_someone_convert_this_extension_for_use_on/), and I had some time to spare.
+
 
 ### <u>From the original README</u>
 
