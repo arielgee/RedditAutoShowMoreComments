@@ -13,7 +13,7 @@
 
 	////////////////////////////////////////////////////////////////////////////////////
 	function initialization() {
-		clickAllButtons(); // Initial check on page load
+		clickAllButtons();
 		observeBodyMutation();
 	}
 
