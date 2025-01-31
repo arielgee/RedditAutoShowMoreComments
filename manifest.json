@@ -7,7 +7,7 @@
 		}
 	},
 	"name": "Reddit Auto Show More Comments",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Automatically clicks 'X more replies' and 'View more comments' buttons on Reddit. This is a fork of the original Chrome extension by alythobani (Aly Thobani). GitHub profile: https://github.com/alythobani",
 	"author": "arielg",
 	"permissions": [],
